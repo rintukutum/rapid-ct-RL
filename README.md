@@ -4,9 +4,12 @@ RL materials
 
 ## Overview
 Reinforcement learning for NLP
-
 - 2018, Medium, [Deep Learning for NLP: An Overview of Recent Trends](https://medium.com/dair-ai/deep-learning-for-nlp-an-overview-of-recent-trends-d0d8f40a776d)
 - 2018, ACL, [Deep Reinforcement Learning for NLP](https://www.aclweb.org/anthology/P18-5007)
+
+## Stanford CS224n & d
+- [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
+- [Deep Learning for Natural Language Processing](https://cs224d.stanford.edu/)
 ## Awesome repo
 - [Awesome RF for NLP](https://github.com/adityathakker/awesome-rl-nlp)
 
